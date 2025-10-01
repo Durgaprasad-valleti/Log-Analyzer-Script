@@ -1,0 +1,2 @@
+#min and max delay (in seconds) between logs
+0.2,0.5

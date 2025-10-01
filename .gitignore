@@ -1,0 +1,7 @@
+ Ignore FortiGate log files and CSV output
+*.log
+*.csv
+logs/
+
+# Ignore Python temporary files
+__pycache__/
